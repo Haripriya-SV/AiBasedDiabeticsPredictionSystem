@@ -6,6 +6,7 @@ The objective of this project is to develop an AI-based diabetic management syst
 <br>
 <br>
 Objective<br>
+<br>
  The AI-Based Diabetic Prediction System is an innovative healthcare project aimed at leveraging artificial intelligence and machine learning technologies to predict and manage diabetes effectively. This system's primary goal is to provide early, accurate, and personalized predictions of diabetes risk for individuals, enabling proactive intervention, lifestyle adjustments, and improved disease management.
 <br><br>
 Design Thinking <br>
@@ -30,9 +31,11 @@ Once a satisfactory model is trained and evaluated, prepare it for deployment in
 A state-of-the-art AI-based diabetic prediction system capable of delivering accurate and personalized risk assessments. Improved diabetes prevention and management, resulting in better patient outcomes and reduced healthcare costs. Enhanced patient engagement and empowerment through accessible, user-friendly interfaces. A valuable tool for healthcare providers to make informed decisions and deliver personalized care.<br>
 <br>
 Significance<br>
+<br>
 •	The AI-Based Diabetic Prediction System represents a groundbreaking approach to diabetes care, shifting from reactive treatment to proactive prevention.<br>
 •	By harnessing AI and predictive analytics, this system has the potential to significantly reduce the burden of diabetes, improve the quality of life for affected individuals, and alleviate strain on healthcare systems.<br>
 This project symbolizes the intersection of cutting-edge technology and healthcare, with the overarching mission of transforming diabetes care through AI-driven prediction and personalized intervention.<br>
+<br>
 Goal<br>
 <br>
 The goal of an AI-based diabetic system is to leverage artificial intelligence and machine learning technologies to enhance the prediction, management, and overall care of individuals with diabetes. This system aims to address various aspects of diabetes care and management, with the overarching objectives of improving health outcomes, enhancing quality of life, and reducing the burden of diabetes for patients and healthcare providers. The specific goals of an AI-based diabetic system typically include:<br>
