@@ -34,6 +34,7 @@ Significance<br>
 •	By harnessing AI and predictive analytics, this system has the potential to significantly reduce the burden of diabetes, improve the quality of life for affected individuals, and alleviate strain on healthcare systems.<br>
 This project symbolizes the intersection of cutting-edge technology and healthcare, with the overarching mission of transforming diabetes care through AI-driven prediction and personalized intervention.<br>
 Goal<br>
+<br>
 The goal of an AI-based diabetic system is to leverage artificial intelligence and machine learning technologies to enhance the prediction, management, and overall care of individuals with diabetes. This system aims to address various aspects of diabetes care and management, with the overarching objectives of improving health outcomes, enhancing quality of life, and reducing the burden of diabetes for patients and healthcare providers. The specific goals of an AI-based diabetic system typically include:<br>
 <br>
 1. Early Detection and Risk Prediction: To identify individuals at risk of developing diabetes, including gestational diabetes mellitus (GDM), type 1 diabetes, and type 2 diabetes, at an early stage. Early detection enables proactive intervention and lifestyle changes.<br>
