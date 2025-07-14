@@ -1,11 +1,15 @@
 # AiBasedDiabeticsPredictionSystem
-Problem Statement
+<br>
+Problem Statement:<br>
+<br>
 The objective of this project is to develop an AI-based diabetic management system that leverages artificial intelligence and machine learning techniques to assist individuals with diabetes and healthcare providers in optimizing diabetes management. The goal of this project is to develop an AI-based diabetes prediction system that can accurately identify individuals at high risk of developing diabetes. The system should be able to use a variety of patient data, including Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, DiabetesPedigreeFuction, Age and Pregnancies to make predictions. The system should also be able to explain its predictions, so that users can understand why they are at high risk and what they can do to reduce their risk.
+<br>
 <br>
 Objective
  The AI-Based Diabetic Prediction System is an innovative healthcare project aimed at leveraging artificial intelligence and machine learning technologies to predict and manage diabetes effectively. This system's primary goal is to provide early, accurate, and personalized predictions of diabetes risk for individuals, enabling proactive intervention, lifestyle adjustments, and improved disease management.
 <br>
 Design Thinking <br>
+<br>
 •	Data Collection
 The data collection process for a machine learning project focused on diabetic prediction involves gathering relevant and high-quality data from various sources. The given dataset uses a variety of patient data, including Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, DiabetesPedigreeFuction, Age and Pregnancies to make predictions.<br>
 •	Data Preprocessing
